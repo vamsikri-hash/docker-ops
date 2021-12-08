@@ -1,6 +1,6 @@
 ### Basic Node + Express API
 
-### How to run
+### How to start API
 
 1. Add `.env` file to `node-exp` folder.
 2. Add `MONGO_URI=<REMOTE_MONGO_URI>` and `myprivatekey=<RANDOM_LONG_KEY>`
